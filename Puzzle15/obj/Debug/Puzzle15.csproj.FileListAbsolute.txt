@@ -1,0 +1,10 @@
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csproj.AssemblyReference.cache
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\FifteenPuzzle.Form1.resources
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.Properties.Resources.resources
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csproj.GenerateResource.cache
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.csproj.CoreCompileInputs.cache
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\bin\Debug\Puzzle15.exe.config
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\bin\Debug\Puzzle15.exe
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\bin\Debug\Puzzle15.pdb
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.exe
+F:\vsesdal\WPF Demid\Puzzle15\Puzzle15\Puzzle15\obj\Debug\Puzzle15.pdb
